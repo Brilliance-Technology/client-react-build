@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/client-react-build/static/css/main.b199ec4a.chunk.css",
+    "main.js": "/client-react-build/static/js/main.b07a995b.chunk.js",
+    "main.js.map": "/client-react-build/static/js/main.b07a995b.chunk.js.map",
+    "runtime-main.js": "/client-react-build/static/js/runtime-main.d24333ef.js",
+    "runtime-main.js.map": "/client-react-build/static/js/runtime-main.d24333ef.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/client-react-build/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.78f8a6e5.chunk.js": "/client-react-build/static/js/2.78f8a6e5.chunk.js",
+    "static/js/2.78f8a6e5.chunk.js.map": "/client-react-build/static/js/2.78f8a6e5.chunk.js.map",
+    "static/js/3.570b4a47.chunk.js": "/client-react-build/static/js/3.570b4a47.chunk.js",
+    "static/js/3.570b4a47.chunk.js.map": "/client-react-build/static/js/3.570b4a47.chunk.js.map",
+    "index.html": "/client-react-build/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/client-react-build/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.b199ec4a.chunk.css.map": "/client-react-build/static/css/main.b199ec4a.chunk.css.map",
+    "static/js/2.78f8a6e5.chunk.js.LICENSE.txt": "/client-react-build/static/js/2.78f8a6e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d24333ef.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.78f8a6e5.chunk.js",
+    "static/css/main.b199ec4a.chunk.css",
+    "static/js/main.b07a995b.chunk.js"
+  ]
+}
