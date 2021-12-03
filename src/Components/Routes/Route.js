@@ -10,8 +10,10 @@ import NotFound from "../Notfound/NotFound";
 import Edit from "../Dashboard/Edit";
 const Routes = (props) => {
   return (
-    <Router {...props}>
+    <Router basename='/studentmanagement'
+    {...props}>
   
+ 
       <R>
         
         <Route path="/register" element={<Register />} />
@@ -21,6 +23,7 @@ const Routes = (props) => {
 
         <Route path="*" element={<NotFound />} />
       </R>
+    
     </Router>
   );
 };
